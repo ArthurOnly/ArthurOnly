@@ -6,7 +6,7 @@
 ### Python
 * Selenium
 * Flask
-* RPI.GPIO
+* RPI
 ### Java
 ### Javascript
 * Node
