@@ -31,4 +31,7 @@
 
 ## Atuações
 * **Núcleo avançado de inovação tecnologica do IFRN (NAVI) / 2019-atualmente** - Primeiramente desenvolvi aplicações com foco em acesso a hardware, utilizando linguagens como C++ e Python. Além disso, fiz o processo de criação de documentação, gerência do repositório no GITLAB, etc. Recentemente, passei a implementar novas funcionalidades no front-end (Electron+vue) de outro segmento do projeto que faço parte.
-* **Freelancer** - Desenvolvo aplicações para pessoas ou empresas. Para isso faço uso da tecnologia React, na qual já tenho um bom domínio.  Em caso de sites mais simples uso apenas HTML,CSS e Javascript sem frameworks. Para a construção do servidor quando necessário já desenvolvi APIs com PHP (Laravel), Python (Flask) e Javascript (Express).
+ 
+* **IFRN (SADHI) / 2020-2021** - Implementei novas funcionalidades, corrigi erros e participei de outras maneiras do desenvolvimento do [SADHI](https://www2.ifrn.edu.br/sadhimodular/index.php?path=login), sistema usado para gerenciar os horários de aula em vários campus do IF.
+
+* **Freelancer / 2020-atualmente** - Desenvolvo aplicações para pessoas ou empresas. Aceito demandas para realização de tarefas relacionadas a desenvolvimento. Desde sites até implementação de novas funcionalidades/correção de erros em sistemas. Com essas tarefas muitas vezes consigo aprender mais sobre determinada tecnologia. Ultimo site que desenvolvi: http://redef5bank.com.br
