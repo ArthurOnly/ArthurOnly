@@ -26,11 +26,16 @@
 ![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-**Porque tantas?** Acredito que saber um pouco de tudo ajuda muito a compreender a fundo algo em específico. Depois de usar um pouco de tudo é possível entender melhor os porquês de X ser como X. Mas, ainda mais importante, vendo um pouco de tudo torna-se possível observar padrões que facilitam o aprendizado de qualquer tecnologia. Adaptabilidade a mudanças no meu ver é vital e se ater totalmente a alguma ferramenta é o pior limitador que pode existir para a evolução. Não limitando-se a tecnologias, me dediquei a aprender os paradigmas, criação de documentação, UML, etc.
+**Porque tantas?** Acredito que saber um pouco de tudo ajuda muito a compreender a fundo algo em específico. Depois de usar um pouco de tudo é possível entender melhor os porquês de X ser como X. Mas, ainda mais importante, vendo um pouco de tudo torna-se possível observar padrões que facilitam o aprendizado de qualquer tecnologia. Adaptabilidade a mudanças no meu ver é vital e se ater totalmente a alguma ferramenta é o maior limitador que pode existir para a evolução. Não limitando-se a tecnologias, me dediquei a aprender os paradigmas, criação de documentação, UML, etc.
 
 ## Atuações
-* **Núcleo avançado de inovação tecnologica do IFRN (NAVI) / 2019-atualmente** - Primeiramente desenvolvi aplicações com foco em acesso a hardware, utilizando linguagens como C++ e Python. Além disso, fiz o processo de criação de documentação, gerência do repositório no GITLAB, etc. Recentemente, passei a implementar novas funcionalidades no front-end (Electron+vue) de outro segmento do projeto que faço parte.
+* **Núcleo avançado de inovação tecnologica do IFRN (NAVI) / 2019-atualmente** - Primeiramente desenvolvi aplicações com foco em acesso a hardware, utilizando linguagens como C++ e Python. Além disso, fiz o processo de criação de documentação, gerência do repositório no GITLAB, etc. A partir de 2021, passei a atuar como desenvolvedor fullstack em outros projetos.
  
 * **IFRN (SADHI) / 2020-2021** - Implementei novas funcionalidades, corrigi erros e participei de outras maneiras do desenvolvimento do [SADHI](https://www2.ifrn.edu.br/sadhimodular/index.php?path=login), sistema usado para gerenciar os horários de aula em vários campus do IF.
 
