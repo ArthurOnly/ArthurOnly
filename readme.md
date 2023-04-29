@@ -27,7 +27,7 @@ Welcome! I am a Fullstack developer at [LAIS/UFRN](https://lais.huol.ufrn.br/).
 ## 💻 Projects i worked
 ### [Management and transparency in public health in Rio Grande do Norte, Brazil](https://lais.huol.ufrn.br/sesap-rn-e-lais-ufrn-discutem-andamento-de-projeto-de-gestao-e-transparencia-na-saude-publica/)
 Group of systems used for manage the public health systems ib Rio Grande do Norte, Brazil.
-## Osseus
+## [Osseus](https://lais.huol.ufrn.br/?projetos=osseus)
 
 
 ## 📚 My formation is
