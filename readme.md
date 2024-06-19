@@ -28,7 +28,7 @@ Welcome! I am a Fullstack developer at [LAIS/UFRN](https://lais.huol.ufrn.br/).
 ### [Management and transparency in public health in Rio Grande do Norte, Brazil](https://lais.huol.ufrn.br/sesap-rn-e-lais-ufrn-discutem-andamento-de-projeto-de-gestao-e-transparencia-na-saude-publica/)
 Group of systems used for manage the public health systems in Rio Grande do Norte, Brazil.
 ## [Osseus](https://lais.huol.ufrn.br/?projetos=osseus)
-Osseus is an low cost medical device that help the diagnostics of diagnosis of bone diseases, developed by researchers of Universidade Federal do Rio Grande do Norte (UFRN) and Massachusetts Institute of Technology (MIT)
+Osseus is a low cost medical device that help the diagnostics of diagnosis of bone diseases, developed by researchers of Universidade Federal do Rio Grande do Norte (UFRN) and Massachusetts Institute of Technology (MIT)
 
 ## 📚 My formation is
 1. Analysis and systems development - IFRN
