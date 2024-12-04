@@ -27,9 +27,18 @@ Welcome! I am a Fullstack developer at [LAIS/UFRN](https://lais.huol.ufrn.br/).
 ## 💻 Projects I worked
 ### [Management and transparency in public health in Rio Grande do Norte, Brazil](https://lais.huol.ufrn.br/sesap-rn-e-lais-ufrn-discutem-andamento-de-projeto-de-gestao-e-transparencia-na-saude-publica/)
 Group of systems used for manage the public health systems in Rio Grande do Norte, Brazil.
-## [Osseus](https://lais.huol.ufrn.br/?projetos=osseus)
-Osseus is a low-cost medical device that helps in the diagnosis of bone diseases, developed by researchers from the Universidade Federal do Rio Grande do Norte (UFRN) and the Massachusetts Institute of Technology (MIT).
 
+* http://www.saude.rn.gov.br/Conteudo.asp?TRAN=ITEM&TARG=336736&ACT=&PAGE=&PARM=&LBL=MAT%C9RIA
+* https://agorarn.com.br/ultimas/peprn-e-implantado-no-walfredo-gurgel/
+  
+### [RET-SUS](https://retsus.ufrn.br/login)
+Academic management system used by technical schools of the SUS in 5 Brazilian states.
+### [Osseus](https://lais.huol.ufrn.br/?projetos=osseus)
+Osseus is a low-cost medical device that helps in the diagnosis of bone diseases, developed by researchers from the Universidade Federal do Rio Grande do Norte (UFRN) and the Massachusetts Institute of Technology (MIT).
+### [Mais Cultura RN](https://maiscultura.rn.gov.br/)
+A system aimed at digitizing applications for cultural notices in the State of Rio Grande do Norte and generating artistic and cultural data.
+
+* https://g1.globo.com/rn/rio-grande-do-norte/noticia/2024/12/02/governo-lanca-editais-da-lei-aldir-blanc-com-investimento-de-r-45-milhoes-para-o-setor-cultural-do-rn.ghtml
 ## 📚 My formation is
 1. Analysis and systems development - IFRN
 2. Informatics - IFRN
