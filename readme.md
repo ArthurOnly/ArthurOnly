@@ -24,7 +24,7 @@ Welcome! I am a Fullstack developer at [LAIS/UFRN](https://lais.huol.ufrn.br/).
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 💻 Projects I worked
+## 💻 Projects I work
 ### [Management and transparency in public health in Rio Grande do Norte, Brazil](https://lais.huol.ufrn.br/sesap-rn-e-lais-ufrn-discutem-andamento-de-projeto-de-gestao-e-transparencia-na-saude-publica/)
 Group of systems used for manage the public health systems in Rio Grande do Norte, Brazil.
 
